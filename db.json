@@ -1,0 +1,23 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Juhi Kira Choudree",
+      "phone": "084-573-0936",
+      "email": "john@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Barry Allen",
+      "phone": "987-654-3210",
+      "email": "barry@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Clark Kent",
+      "phone": "555-555-5555",
+      "email": "clark@example.com"
+    }
+
+  ]
+}
